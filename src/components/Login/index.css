@@ -1,0 +1,17 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.about-heading {
+  padding: 10px 20px;
+  color: #000;
+  font: bold 35px Roboto;
+}
+
+.login-button {
+  cursor: pointer;
+}
